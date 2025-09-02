@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on **AI/ML projects** like a CHD Risk Prediction System and a Bill Splitter App with UPI Simulation.  <br>🤝 I’m looking to collaborate on **machine learning, deep learning, and AI-driven web apps**.  <br>🙌 I’m looking for help with **scaling ML models and deploying them in production**.  <br>🌱 I’m currently learning **Generative AI, LangChain, and Cloud AI services (Azure, GCP)**.  <br>💬 Ask me about **Python, ML/DL, Flask, or building AI-powered applications**.  <br>⚡ Fun fact: I turn ☕ + 💻 into AI experiments that sometimes actually work 😅.  <br>
 
 
